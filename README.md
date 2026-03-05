@@ -2,7 +2,7 @@
 
 This is my personal portfolio website built with HTML and CSS. I created it to showcase my projects, skills, and experience as a Computer Science student at Texas Tech University.
 
-You can view the live site here: [parth-gorasiya.github.io/create_website](https://parth-gorasiya.github.io/create_website)
+You can view the live site here: [parth-gorasiya.github.io/portfolio](https://parth-gorasiya.github.io/portfolio)
 
 ## About Me
 
