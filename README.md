@@ -1,82 +1,35 @@
-# GitHub Template Repository
+# Personal Portfolio Website
 
-Welcome to the GitHub template repository for the **courses (CS3361, CS3365)**! This template serves as a starting point for your first assignment of creating and deploying your portfolio. Follow the instructions below to download, customize, and push your work to your own GitHub repository.
+This is my personal portfolio website built with HTML and CSS. I created it to showcase my projects, skills, and experience as a Computer Science student at Texas Tech University.
 
----
+You can view the live site here: [parth-gorasiya.github.io/create_website](https://parth-gorasiya.github.io/create_website)
 
-## 📂 Repository Structure
-The template includes the following structure:
+## About Me
 
-```
-📦create_website
- ┣ 📂files/         # Add your CV PDF inside this folder
- ┣ 📂images/        # Add your image inside this folder
- ┣ projects.html    # Update this file to add your own project details
- ┣ index.html       # Update this file for the main page of your portfolio
- ┣ 📜README.md      # Project instructions and information
- ┗ 📜LICENSE        # Licensing information
-```
+I am a final-year Computer Science student at Texas Tech University graduating in May 2026 with a 4.0 GPA and a Minor in Mathematics. I have experience in full-stack development, machine learning, and IT systems. I currently work as a Student Supervisor and ServiceNow ATF Tester at IT Help Central, TTU.
 
----
+## What's Inside
 
-## 🚀 Getting Started
+- `index.html` - Main page with my bio, contact info, and social links
+- `projects.html` - All my projects with descriptions and tech stacks
+- `cv.html` - Page to download my resume
+- `files/` - Contains my resume PDF
+- `images/` - Contains my profile picture
 
-### 1. **Clone or Download This Repository**  
-Clone the repository to your local machine:
-```bash
-git clone https://github.com/MaazAmjad/create_website.git
-```
-Alternatively, download it as a ZIP file and extract it.
+## Projects Featured
 
----
+- **Airbnb Clone** - Full-stack travel rental platform built with React, Node.js, Express, MongoDB, and Google Maps API
+- **Zerodha Clone** - Stock market investment dashboard with real-time data, Redux, and JWT authentication
+- **Supermarket DBMS** - MySQL relational database with 3NF schema, triggers, and indexes
+- **Criminal Identification using ML** - SVM machine learning model built with Python, Pandas, NumPy, and Scikit-learn
 
-### 2. **Update Your Information**  
-Make the following changes:
-- Replace placeholder information (e.g., `Your Name`, `Project Title`) with your details.
-- Add your project code and any required files in the respective folders.
+## Tech Stack
 
----
+- HTML, CSS
+- Deployed with GitHub Pages
 
-### 3. **Create Your GitHub Repository**  
-1. Log in to your GitHub account.  
-2. Create a new repository (**public** unless otherwise specified).  
-3. Copy the repository URL for use in the next step.
+## Contact
 
----
-
-### 4. **Push Your Changes to Your Repository**  
-Run the following commands to upload your project to your new repository:
-
-```bash
-# Initialize a new Git repository
-git init
-
-# Stage all changes
-git add .
-
-# Commit your changes
-git commit -m "Initial commit"
-
-# Set the main branch
-git branch -M main
-
-# Add the remote repository
-git remote add origin <your-repo-url>
-
-# Push changes to GitHub
-git push -u origin main
-```
-
----
-
-## 📝 Submission Instructions  
-Once you have pushed your work to GitHub, submit the repository link as per the instructions provided in the course.
-
----
-
-### ⚖️ License  
-This project template is licensed under the [MIT License](LICENSE).
-
----
-
-Celebrate and enjoy your coding experience! 🚀
+- Email: pgorasiy@ttu.edu
+- LinkedIn: [linkedin.com/in/parth-gorasiya](https://www.linkedin.com/in/parth-gorasiya)
+- GitHub: [github.com/Parth-Gorasiya](https://github.com/Parth-Gorasiya)
